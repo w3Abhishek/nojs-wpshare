@@ -9,6 +9,7 @@ Social Sharing helps your blog to get more traffic. But adding social share butt
       <img src="https://img.shields.io/github/followers/w3Abhishek?label=Follow&style=for-the-badge" />
     </a>
     </p>
+    
 ![img](https://raw.githubusercontent.com/w3Abhishek/nojs-wpshare/master/NoJS%20WPShare.png)
 
 
